@@ -1,10 +1,10 @@
 name: flutter_folder_structure
 description: "A new Flutter project."
-publish_to: 'none'
+publish_to: "none"
 version: 0.1.0
 
 environment:
-  sdk: '>=3.3.1 <4.0.0'
+  sdk: ">=3.3.1 <4.0.0"
 
 dependencies:
   flutter:
@@ -12,7 +12,6 @@ dependencies:
   flutter_svg: ^2.0.10+1
   lottie: ^3.1.0
   dio: ^5.4.2+1
-
 
 dev_dependencies:
   flutter_test:
@@ -26,6 +25,7 @@ flutter:
     - assets/svg/
     - assets/images/
     - assets/json/
+    - assets/fonts/
 
   fonts:
     - family: Poppins

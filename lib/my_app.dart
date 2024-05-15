@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_folder_structure/config/routes/app_router.dart';
-import 'package:flutter_folder_structure/config/routes/route_names.dart';
-import 'package:flutter_folder_structure/config/themes/app_theme.dart';
+
+import 'config/routes/app_router.dart';
+import 'config/routes/route_names.dart';
+import 'config/themes/app_theme.dart';
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
